@@ -17,7 +17,7 @@ console.log(mate); // 🧉
 
 or
 
-```sh
+```js
 import mate from "emoji-mate";
 console.log(mate); // 🧉
 ```
