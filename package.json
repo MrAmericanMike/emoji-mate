@@ -1,0 +1,21 @@
+{
+	"name": "emoji-mate",
+	"version": "1.0.0",
+	"description": "Returns the mate emoji",
+	"main": "main.js",
+	"author": "MrAmericanMike",
+	"files": [
+		"main.js",
+		"package.json",
+		"README.md"
+	],
+	"license": "MIT",
+	"homepage": "https://github.com/MrAmericanMike/emoji-mate#readme",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/MrAmericanMike/emoji-mate.git"
+	},
+	"bugs": {
+		"url": "https://github.com/MrAmericanMike/emoji-mate/issues"
+	}
+}
