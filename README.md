@@ -2,10 +2,23 @@
 
 Returns the mate emoji.
 
+## Installation
+
+```sh
+npm install emoji-mate
+```
+
 ## Usage
 
 ```js
 const mate = require("emoji-mate");
+console.log(mate); // 🧉
+```
+
+or
+
+```sh
+import mate from "emoji-mate";
 console.log(mate); // 🧉
 ```
 
