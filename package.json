@@ -9,6 +9,14 @@
 		"package.json",
 		"README.md"
 	],
+	"keywords": [
+		"mate",
+		"emoji",
+		"yerba mate",
+		"maté",
+		"chimarrão",
+		"cimarrón"
+	],
 	"license": "MIT",
 	"homepage": "https://github.com/MrAmericanMike/emoji-mate#readme",
 	"repository": {
