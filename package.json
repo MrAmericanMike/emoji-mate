@@ -2,13 +2,14 @@
 	"name": "emoji-mate",
 	"version": "1.0.3",
 	"description": "Returns the mate emoji",
-	"main": "main.js",
+	"main": "lib/main.js",
+	"types": "lib/main.d.ts",
 	"author": "MrAmericanMike",
 	"scripts": {
 		"tsc": "tsc"
 	},
 	"files": [
-		"main.js",
+		"lib/**/*",
 		"package.json",
 		"README.md"
 	],
