@@ -22,5 +22,6 @@ import mate from "emoji-mate";
 console.log(mate); // 🧉
 ```
 
-![License MIT](https://img.shields.io/badge/license-MIT-blue)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![NPM Package](https://img.shields.io/npm/v/emoji-mate?label=npm)](https://www.npmjs.com/package/emoji-mate)
 
