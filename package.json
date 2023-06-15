@@ -7,7 +7,7 @@
 	"author": "MrAmericanMike",
 	"scripts": {
 		"tsc": "tsc",
-		"test": "vitest"
+		"test": "pnpm run tsc && vitest"
 	},
 	"files": [
 		"lib/**/*",

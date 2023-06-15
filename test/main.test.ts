@@ -6,8 +6,14 @@ it("Should return a mate emoji", () => {
 	expect(MATE_SOURCE).toBe("🧉");
 });
 
-import MATE_LIB from "../lib/main";
+import MATE_MJS from "../lib/main";
 
 it("Should return a mate emoji", () => {
-	expect(MATE_LIB).toBe("🧉");
+	expect(MATE_MJS).toBe("🧉");
+});
+
+const MATE_CJS = require("../lib/main");
+
+it("Should return a mate emoji", () => {
+	expect(MATE_CJS).toBe("🧉");
 });
